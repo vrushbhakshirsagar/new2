@@ -2,3 +2,5 @@ this is chat applicatio
 features 
 1 emoje
 2 cartoon  
+3 actors
+4 creators
