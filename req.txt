@@ -4,3 +4,6 @@ features
 2 cartoon  
 3 actors
 4 creators
+
+5 colours
+6 spacebar
